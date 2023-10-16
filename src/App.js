@@ -1,5 +1,5 @@
 
-import Hook2 from "./Hook2";
+import Hook3 from "./Hook3";
 
 
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
 
-      <Hook2></Hook2>
+      <Hook3></Hook3>
     </div>
   );
 }
