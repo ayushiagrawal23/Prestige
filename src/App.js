@@ -1,12 +1,13 @@
-import Hook from "./Hook";
 
+import Hook1 from "./Hook1";
 
 
 
 function App() {
   return (
     <div>
-      <Hook></Hook>
+
+      <Hook1></Hook1>
     </div>
   );
 }

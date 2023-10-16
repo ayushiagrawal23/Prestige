@@ -1,6 +1,6 @@
 import {useState} from "react"
 import {useEffect} from "react"
-function Hook()
+function Hook1()
 {
     const [count,setCount]=useState(0)
     const [data,setData]=useState(10)
@@ -17,4 +17,4 @@ function Hook()
         </div>
     )
 }
-export default Hook
+export default Hook1
