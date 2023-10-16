@@ -1,6 +1,10 @@
 import {useState} from "react"
+import {useEffect} from "react"
 function Hook()
 {
+    useEffect(()=>{
+        console.log("LOADING.....")
+    })
     const[name,setName]=useState("Ram")
     return(
         <div>
