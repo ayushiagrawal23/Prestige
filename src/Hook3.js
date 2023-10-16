@@ -6,7 +6,7 @@ function Hook3()
     const [data,setData]=useState(10)
     useEffect(()=>{
         console.log("LOADING.....")
-    },[count])
+    })
     
     return(
         <div>
