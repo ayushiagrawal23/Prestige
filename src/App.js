@@ -1,11 +1,12 @@
 
-import Style from "./Style"
+import Boot from "./Boot";
+
 
 
 function App() {
   return (
     <div>
-<Style></Style>
+<Boot></Boot>
       
     </div>
   );
