@@ -1,13 +1,12 @@
 
-import Hook3 from "./Hook3";
-
+import Style from "./Style"
 
 
 function App() {
   return (
     <div>
-
-      <Hook3></Hook3>
+<Style></Style>
+      
     </div>
   );
 }
