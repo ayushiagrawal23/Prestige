@@ -1,13 +1,11 @@
 
-import Boot from "./Boot";
 
 
-
+import ApiData from "./ApiData.js";
 function App() {
   return (
     <div>
-<Boot></Boot>
-      
+<ApiData></ApiData>
     </div>
   );
 }
